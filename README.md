@@ -1,12 +1,12 @@
-# Montante
+#Montante
 Método Númerico de montante
 
-/*
-METODOS NUMERICOS EN INGENIERIA
 
+**METODOS NUMERICOS EN INGENIERIA**
+---
 Realizar un programa que sea útil para resolver un sistema de ecuaciones lineales.
 
-El programa hace:
+**El programa hace:**
 -	pedir el número de ecuaciones y el número de incógnitas.
 -	validar que se tenga el mismo número de ecuaciones que de incógnitas para
     poder arrancar.
@@ -14,5 +14,3 @@ El programa hace:
 -	Utilizar el método de Montante para encontrar y desplegar la solución única
     ó un mensaje indicando que no tiene solución única
 
-Fecha de entrega: jueves 3 de marzo  12 PM
-*/
